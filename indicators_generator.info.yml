@@ -1,0 +1,7 @@
+name: "Indicators generator"
+type: module
+description: "Generate TB indicators from country data entry form"
+dependencies:
+  - views
+package: "Views"
+core: 8.x
